@@ -16,14 +16,42 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Web & App Development projects (Firebase)**.
+- 🔭 I’m currently working on **Web & App Development projects**.
 - 🌱 I’m currently learning **Advanced C, Python, and AI**.
 - 👯 I’m looking to collaborate on **Open Source & Hackathon projects**.
 - ⚡ **Fun Fact:** I create content on TikTok and code in my sleep.
-- ✉️ Reach me at abrahamrodgers2@gmail.com
+
 ---
 
-### 🛠️ Tech Stack
+### 🤝 Connect with Me
+
+<div align="center">
+
+  <a href="mailto:abrahamrodgers2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/Rodgers Abraham">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://instagram.com/black._.pappy">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://twitter.com/insert username here">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  </a>
+  
+  <a href="https://www.tiktok.com/@black._.pappy">
+     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+  </a>
+
+</div>
+
+---
+
+### 🛠️ Tech Stacks
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
