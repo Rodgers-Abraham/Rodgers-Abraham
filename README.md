@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/YOUR_USERNAME_HERE">Rick</a>! 👋
+# Hi there, I'm <a href="https://github.com/Rodgers-Abraham">RODGERS</a>! 👋
 
 ### 🎓 IT Student at University of Embu
 **Software Engineering | Web & App Development | AI Enthusiast**
