@@ -39,8 +39,8 @@
 ### 📊 The Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodgers-abraham&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgers-abraham&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
 
 ---
@@ -52,5 +52,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rodgers-Abraham&style=flat-square&color=blue" alt="Profile Views" />
 </div>
