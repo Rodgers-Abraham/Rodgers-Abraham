@@ -20,10 +20,10 @@
 - 🌱 I’m currently learning **Advanced C, Python, and AI**.
 - 👯 I’m looking to collaborate on **Open Source & Hackathon projects**.
 - ⚡ **Fun Fact:** I create content on TikTok and code in my sleep.
-
+- ✉️ Reach me at abrahamrodgers2@gmail.com
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
