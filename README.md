@@ -70,7 +70,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
+
+---
+
 ### 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rodgers-Abraham&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
