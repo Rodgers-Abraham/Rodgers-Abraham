@@ -64,21 +64,17 @@
 
 ---
 
-### 📊 The Backup Stats (Try this!)
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rodgers-Abraham&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodgers-Abraham&theme=radical" alt="Profile Details" />
     <br/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rodgers-Abraham&theme=radical" alt="Productive Time" />
 </div>
-
----
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rodgers-Abraham&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
