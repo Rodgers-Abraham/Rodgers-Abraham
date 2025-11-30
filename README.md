@@ -80,6 +80,22 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
+### 📊 My GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  </a>
+
+</div>
+
+---
+
 ### 🤣 Daily Dose of Humor
 
 <div align="center">
