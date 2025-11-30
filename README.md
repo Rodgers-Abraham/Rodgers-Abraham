@@ -64,11 +64,12 @@
 
 ---
 
-### 📊 The Stats
+### 📊 The Backup Stats (Try this!)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&layout=compact&theme=radical&hide_border=true" height="160" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodgers-Abraham&theme=radical" alt="Profile Details" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rodgers-Abraham&theme=radical" alt="Productive Time" />
 </div>
 
 ---
@@ -78,21 +79,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Rodgers-Abraham&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rodgers-Abraham&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodgers-Abraham&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-  </a>
-
-</div>
 
 ---
 
