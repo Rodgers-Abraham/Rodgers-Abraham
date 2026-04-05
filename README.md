@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F713&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Rodgers!+%F0%9F%91%8B;I+Steal+Errors+For+Fun+%F0%9F%90%9B;IT+Student+%40+Uni+of+Embu;Ronaldo+is+the+GOAT+%F0%9F%90%90" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rodgers-Abraham&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</a>
 
 ---
 
