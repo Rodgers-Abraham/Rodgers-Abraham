@@ -423,7 +423,10 @@ Working on academic and personal software projects while continuously expanding 
 
 <p align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31m8gk1d8q7x4a0abc123&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://spotify.com)
+<a href="https://www.last.fm/user/Black_Pappy">
+<img src="https://lastfm-recently-played.vercel.app/api?user=Black_Pappy" />
+
+</a>
 
 </p>
 
