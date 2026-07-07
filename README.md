@@ -332,8 +332,7 @@ Working on academic and personal software projects while continuously expanding 
 
 ---
 
-
-# 📊 GitHub Analytics
+# ⚡ GitHub Metrics
 
 <p align="center">
 
@@ -342,26 +341,6 @@ Working on academic and personal software projects while continuously expanding 
 <img width="49%" src="https://streak-stats.demolab.com?user=Rodgers-Abraham&theme=shadow_red&hide_border=true"/>
 
 </p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rodgers-Abraham&layout=compact&theme=shadow_red&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rodgers-Abraham&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# ⚡ GitHub Metrics
 
 <p align="center">
 
@@ -382,8 +361,7 @@ Working on academic and personal software projects while continuously expanding 
 <p align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rodgers-Abraham&theme=github_dark&utcOffset=3"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodgers-Abraham&theme=github_dark"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rodgers-Abraham&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
