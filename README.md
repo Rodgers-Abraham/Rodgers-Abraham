@@ -1,12 +1,12 @@
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C2BD9,50:7F5AF0,100:4F46E5&text=Rodgers%20Abraham&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=IT%20Student%20•%20Full%20Stack%20Developer%20•%20AI%20Explorer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C2BD9,50:7F5AF0,100:4F46E5&text=Rodgers%20Abraham&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=IT%20Student%20•%20%Mobile%20Developer%20•%20AI%20Explorer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rodgers+Abraham+👋;IT+Student+@+University+of+Embu;Full+Stack+Developer;Flutter+•+Python+•+JavaScript;Building+Apps+That+Solve+Real+Problems;AI+Enthusiast+🤖;F1+Enthusiast+🏎️;Cristiano+Ronaldo+and+Sir+Lewis+Hamilton+are+the+GOAT+🐐" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rodgers+Abraham+👋;IT+Student+@+University+of+Embu;Mobile+Developer;Flutter+•+Python+•+JavaScript;Building+Apps+That+Solve+Real+Problems;AI+Enthusiast+🤖;F1+Enthusiast+🏎️;Cristiano+Ronaldo+and+Sir+Lewis+Hamilton+are+the+GOAT+🐐" />
 
 </a>
 
