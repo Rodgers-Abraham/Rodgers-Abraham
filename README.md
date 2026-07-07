@@ -423,11 +423,9 @@ Working on academic and personal software projects while continuously expanding 
 
 # 🎵 Currently Vibing To
 
-> Replace `YOUR_SPOTIFY_USER_ID` with your Spotify ID.
-
 <p align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://spotify.com)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31m8gk1d8q7x4a0abc123&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://spotify.com)
 
 </p>
 
@@ -475,45 +473,6 @@ If you enjoy my projects or find them useful, consider supporting my journey.
 </a>
 
 </p>
-
----
-
-# 🐍 GitHub Contribution Snake
-
-> Create `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  generate:
-
-    permissions:
-      contents: write
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Rodgers-Abraham
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
