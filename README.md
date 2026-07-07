@@ -399,9 +399,7 @@ Working on academic and personal software projects while continuously expanding 
 
 ---
 
-# 🔥 Contribution Snake
-
-> **⚠️ This requires a GitHub Action. We'll configure it in Part 4.**
+# 🔥 Contribution
 
 <p align="center">
 
