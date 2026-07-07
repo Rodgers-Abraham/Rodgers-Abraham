@@ -361,11 +361,11 @@ Working on academic and personal software projects while continuously expanding 
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 GitHub Metrics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rodgers-Abraham&theme=radical&no-frame=true&row=2&column=4&margin-w=18&margin-h=18"/>
+<img src="/github-metrics.svg"/>
 
 </p>
 
