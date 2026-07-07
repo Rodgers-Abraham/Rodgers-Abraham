@@ -199,4 +199,265 @@ I believe great software isn't just written... it's engineered.
 
 > *"Code with purpose. Learn relentlessly. Build solutions that matter."*
 
-<!-- ================= END OF PART 1 ================= -->
+# 🧠 AI & Software Engineering Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| 🤖 Artificial Intelligence | ⭐⭐⭐☆☆ | Learning Machine Learning, AI APIs & Intelligent Applications |
+| 🐍 Python Development | ⭐⭐⭐⭐☆ | Automation, Backend Development, Data Processing |
+| 📱 Flutter Development | ⭐⭐⭐⭐☆ | Cross-platform Mobile Applications |
+| 🌐 Full Stack Development | ⭐⭐⭐⭐☆ | Modern Web Applications using React, Node.js & Firebase |
+| ☁️ Cloud Computing | ⭐⭐⭐☆☆ | Google Cloud, Vercel, Render & Firebase |
+| 🗄️ Databases | ⭐⭐⭐⭐☆ | MySQL, Supabase, Firebase Firestore |
+| 🔐 Git & Version Control | ⭐⭐⭐⭐⭐ | Git, GitHub, GitLab & Team Collaboration |
+| 🚀 Software Engineering | ⭐⭐⭐⭐☆ | Clean Code, OOP, APIs & Scalable Architecture |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>📱 Expense Tracker Mobile App</b></summary>
+
+### Overview
+
+A modern Flutter application that helps users manage personal finances with beautiful analytics and cloud synchronization.
+
+| Category | Details |
+|----------|---------|
+| **Tech Stack** | Flutter • Firebase • Dart |
+| **Architecture** | MVVM |
+| **Authentication** | Firebase Auth |
+| **Database** | Cloud Firestore |
+| **Performance** | Optimized UI & Real-time Sync |
+| **Security** | Secure Authentication |
+| **Status** | 🚧 In Progress |
+
+### Key Features
+
+- Secure Login
+- Expense Categories
+- Monthly Analytics
+- Charts & Reports
+- Dark Mode
+- Cloud Backup
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Full Stack Portfolio Website</b></summary>
+
+### Overview
+
+A responsive portfolio showcasing projects, blogs and achievements with modern UI/UX principles.
+
+| Category | Details |
+|----------|---------|
+| **Frontend** | React |
+| **Backend** | Node.js |
+| **Hosting** | Vercel |
+| **Database** | Supabase |
+| **Performance** | Lighthouse Optimized |
+| **Security** | HTTPS & Authentication |
+| **Status** | ✅ Active |
+
+### Features
+
+- Responsive Design
+- Project Showcase
+- Blog Integration
+- Contact Form
+- Fast Loading
+- SEO Optimized
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 AI Assistant Project</b></summary>
+
+### Overview
+
+An intelligent chatbot capable of answering questions, automating workflows and integrating with external APIs.
+
+| Category | Details |
+|----------|---------|
+| **Language** | Python |
+| **AI** | OpenAI API |
+| **Backend** | FastAPI |
+| **Deployment** | Render |
+| **Database** | Supabase |
+| **Status** | 🚧 Building |
+
+### Features
+
+- AI Conversations
+- API Integrations
+- Context Memory
+- Fast Responses
+- Clean Interface
+
+</details>
+
+---
+
+<details>
+<summary><b>🎮 Gaming Companion App</b></summary>
+
+### Overview
+
+A companion app for gamers to track achievements, gaming sessions and discover new releases.
+
+| Category | Details |
+|----------|---------|
+| **Platform** | Flutter |
+| **Backend** | Firebase |
+| **Authentication** | Google Sign-In |
+| **Cloud** | Firebase Storage |
+| **Status** | 🛠 Planning |
+
+### Planned Features
+
+- Achievement Tracking
+- Friend Lists
+- News Feed
+- Gaming Statistics
+- Push Notifications
+
+</details>
+
+---
+
+# 💼 Experience
+
+## 👨‍💻 Student Developer
+
+**University of Embu**
+
+*2024 - Present*
+
+Working on academic and personal software projects while continuously expanding knowledge in software engineering, cloud computing and AI.
+
+### Responsibilities
+
+- Develop mobile applications using Flutter
+- Build responsive web applications
+- Learn backend architecture
+- Design relational databases
+- Collaborate on team projects
+- Practice Git workflows
+
+**Skills**
+
+`Flutter`
+`Python`
+`JavaScript`
+`Firebase`
+`Git`
+`GitHub`
+`React`
+`Node.js`
+
+---
+
+# 🎓 Education
+
+## Bachelor of Information Technology
+
+**University of Embu**
+
+📍 Kenya
+
+### Relevant Coursework
+
+- Programming Fundamentals
+- Object-Oriented Programming
+- Database Systems
+- Networking
+- Data Structures
+- Software Engineering
+- Web Development
+
+---
+
+# 🏅 Certifications
+
+### ☁️ Cloud
+
+- 🟣 Google Cloud Skills Boost *(In Progress)*
+- 🔵 Firebase Learning Path *(In Progress)*
+
+---
+
+### 💻 Programming
+
+- 🐍 Python Programming *(Ongoing)*
+- 📱 Flutter Development *(Ongoing)*
+
+---
+
+### 🎯 Future Certifications
+
+- AWS Certified Cloud Practitioner
+- Oracle Java Foundations
+- Cisco Networking Academy
+- Microsoft Azure Fundamentals
+- Google Associate Cloud Engineer
+
+---
+
+# 🌍 Open Source Journey
+
+```text
+2026
+│
+├── 🌱 Learning every day
+├── 🚀 Building Full Stack Applications
+├── 📱 Creating Flutter Apps
+├── 🤖 Exploring Artificial Intelligence
+├── ☁️ Learning Cloud Engineering
+└── ❤️ Preparing meaningful Open Source contributions
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Flutter
+- ✅ Become proficient in Python
+- 🔄 Build 10+ Portfolio Projects
+- 🔄 Contribute to Open Source
+- 🔄 Learn Docker
+- 🔄 Learn Kubernetes
+- 🔄 Deploy Production Applications
+- 🎯 Secure a Software Engineering Internship
+
+---
+
+# 📌 Currently Working On
+
+```yaml
+Current_Project:
+  Name: Personal Portfolio Ecosystem
+
+Includes:
+  - Flutter Apps
+  - Web Applications
+  - AI Projects
+  - GitHub Branding
+
+Learning:
+  - Flutter
+  - Python
+  - AI
+  - Cloud
+  - DevOps
+
+Status:
+  Consistency > Perfection 🚀
+```
+
+<!-- ================= END OF PART 2 ================= -->
