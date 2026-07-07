@@ -6,7 +6,7 @@
 <p align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rodgers+Abraham+👋;IT+Student+@+University+of+Embu;Full+Stack+Developer;Flutter+•+Python+•+JavaScript;Building+Apps+That+Solve+Real+Problems;AI+Enthusiast+🤖;Cristiano+Ronaldo+is+the+GOAT+🐐" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Rodgers+Abraham+👋;IT+Student+@+University+of+Embu;Full+Stack+Developer;Flutter+•+Python+•+JavaScript;Building+Apps+That+Solve+Real+Problems;AI+Enthusiast+🤖;F1+Enthusiast+🏎️;Cristiano+Ronaldo+and+Sir+Lewis+Hamilton+are+the+GOAT+🐐" />
 
 </a>
 
@@ -447,8 +447,8 @@ If you enjoy my projects or find them useful, consider supporting my journey.
 
 # ⚽ Outside of Coding
 
-- ⚽ Football fan
-- 🐐 Cristiano Ronaldo supporter
+- ⚽ Football and F1 fan
+- 🐐 Ronaldo and Sir Hamilton Fan
 - 🎮 Gaming
 - 🎵 Music
 - 📚 Learning new technologies
