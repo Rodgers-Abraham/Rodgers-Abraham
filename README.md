@@ -361,17 +361,7 @@ Working on academic and personal software projects while continuously expanding 
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="/github-metrics.svg"/>
-
-</p>
-
----
-
-# ⚡ GitHub Summary Cards
+# ⚡ GitHub Metrics
 
 <p align="center">
 
@@ -427,16 +417,6 @@ Working on academic and personal software projects while continuously expanding 
 <img src="https://lastfm-recently-played.vercel.app/api?user=Black_Pappy" />
 
 </a>
-
-</p>
-
----
-
-# 📌 Top Contributed Repositories
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Rodgers-Abraham&limit=8&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </p>
 
