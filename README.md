@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Rodgers-Abraham">
+<a href="https://github.com/pappycodes">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -38,11 +38,11 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rodgers-Abraham&label=Profile%20Views&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=pappycodes&label=Profile%20Views&style=for-the-badge&color=8B5CF6"/>
 
-<img src="https://img.shields.io/github/followers/Rodgers-Abraham?style=for-the-badge&color=7F5AF0&label=Followers"/>
+<img src="https://img.shields.io/github/followers/pappycodes?style=for-the-badge&color=7F5AF0&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/Rodgers-Abraham?affiliations=OWNER&style=for-the-badge&color=6C2BD9&label=Stars"/>
+<img src="https://img.shields.io/github/stars/pappycodes?affiliations=OWNER&style=for-the-badge&color=6C2BD9&label=Stars"/>
 
 <img src="https://img.shields.io/badge/Open%20Source-Lover-7F5AF0?style=for-the-badge"/>
 
