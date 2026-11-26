@@ -335,32 +335,32 @@ Working on academic and personal software projects while continuously expanding 
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Rodgers-Abraham&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=pappycodes&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Rodgers-Abraham&theme=shadow_red&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodgers-Abraham&theme=github_dark"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=pappycodes&theme=shadow_red&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rodgers-Abraham&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rodgers-Abraham&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodgers-Abraham&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pappycodes&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rodgers-Abraham&theme=github_dark&utcOffset=3"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rodgers-Abraham&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pappycodes&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pappycodes&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pappycodes&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pappycodes&theme=github_dark&utcOffset=3"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pappycodes&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -370,7 +370,7 @@ Working on academic and personal software projects while continuously expanding 
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Rodgers-Abraham/Rodgers-Abraham/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/pappycodes/pappycodes/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -460,7 +460,7 @@ If you enjoy my projects or find them useful, consider supporting my journey.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rodgers-Abraham&style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=pappycodes&style=for-the-badge&color=8B5CF6"/>
 
 </p>
 
